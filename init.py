@@ -37,3 +37,6 @@ def till():
 
 def harvest():
     pass
+
+def can_move():
+    return True
