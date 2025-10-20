@@ -4,7 +4,7 @@ directions = ['North', 'East', 'South', 'West']
 
 def dfs():
     pass
-
+ 
 def start(x, y, n):
     move_to(x, y)
     while True:
